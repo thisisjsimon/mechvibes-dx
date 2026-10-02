@@ -1,0 +1,6 @@
+# vim:filetype=toml syntax=toml tabstop=2 shiftwidth=2 softtabstop=2 expandtab fileencoding=utf-8
+
+[tools]
+rust   = "1.97.1"
+
+"cargo:dioxus-cli" = "0.7.10"
